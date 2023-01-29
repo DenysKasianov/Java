@@ -13,5 +13,31 @@ public class hw2 {
         System.out.println(row1);
         System.out.println(row2);
         //System.out.println(row3);
+
+        char h = '\u0048';
+        char y = '\u0065';
+        char l = '\u006C';
+        char o = '\u006F';
+        char d = '\u0044';
+        char n = '\u006E';
+        char i = '\u0079';
+        char s = '\u0073';
+        char comma = '\u002C';
+        char pr = '\u0021';
+
+        System.out.print(h);
+        System.out.print(y);
+        System.out.print(l);
+        System.out.print(l);
+        System.out.print(o);
+        System.out.print(comma);
+        System.out.print(" ");
+        System.out.print(d);
+        System.out.print(y);
+        System.out.print(n);
+        System.out.print(i);
+        System.out.print(s);
+        System.out.print(pr);
+
     }
 }
