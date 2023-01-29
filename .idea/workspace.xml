@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7214bfd6-089d-4dc2-9efc-e34ede65e836" name="Changes" comment="Add String &quot;name&quot; variable and edit System.out.println command">
-      <change afterPath="$PROJECT_DIR$/src/Homework1/hello.java" afterDir="false" />
+    <list default="true" id="7214bfd6-089d-4dc2-9efc-e34ede65e836" name="Changes" comment="add workspace.xml to .gitignore">
+      <change afterPath="$PROJECT_DIR$/src/Homework2/hw2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.hw2">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework1.hello" />
       <module name="Training" />
@@ -57,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.hw2" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw2" />
         <item itemvalue="Application.hello" />
       </list>
     </recent_temporary>
@@ -86,12 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675025662407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create new package and class inside">
+      <created>1675027057461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675027057461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add workspace.xml to .gitignore">
+      <created>1675027116772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675027116772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Add String &quot;name&quot; variable and edit System.out.println command" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add String &quot;name&quot; variable and edit System.out.println command" />
+    <MESSAGE value="Create new package and class inside" />
+    <MESSAGE value="add workspace.xml to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add workspace.xml to .gitignore" />
   </component>
 </project>
